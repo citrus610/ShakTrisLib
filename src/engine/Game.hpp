@@ -7,7 +7,7 @@
 #include <variant>
 
 #include "Board.hpp"
-#include "Move.hpp"
+#include "../Move.hpp"
 #include "Piece.hpp"
 //#include "BitPiece.hpp"
 

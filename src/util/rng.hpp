@@ -5,7 +5,7 @@
 #include <random>
 #include <utility>
 
-#include "engine/ShaktrisConstants.hpp"
+#include "../engine/ShaktrisConstants.hpp"
 
 class RNG {
    public:
